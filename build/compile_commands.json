@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/wangc/Data/AAA_Code/Vision/mission2/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/mission2.dir/main.cpp.o -c /media/wangc/Data/AAA_Code/Vision/mission2/main.cpp",
+  "file": "/media/wangc/Data/AAA_Code/Vision/mission2/main.cpp"
+}
+]
